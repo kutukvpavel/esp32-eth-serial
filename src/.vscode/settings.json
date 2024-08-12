@@ -1,0 +1,9 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "files.associations": {
+        "ethernet_init.h": "c"
+    },
+    "idf.port": "/dev/ttyUSB0",
+    "idf.flashType": "UART"
+}
